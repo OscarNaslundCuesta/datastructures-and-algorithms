@@ -38,8 +38,8 @@ test_val2 = 15
 test_val3 = 29
 test_val4 = 19
 test_val5 = 1
-print binary_search(test_list, test_val1)
-print binary_search(test_list, test_val2)
-print binary_search(test_list, test_val3)
+print(binary_search(test_list, test_val1))
+print(binary_search(test_list, test_val2))
+print(binary_search(test_list, test_val3))
 # print binary_search(test_list, test_val4)
 # print binary_search(test_list, test_val5)
