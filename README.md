@@ -1,6 +1,6 @@
-# Intro to Data Structures & Algorithms
-4 wk. course with Udacity/Google ([link](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513))  
-Pseudo-code that is nearly identical to Python.
+# Intro to Data Structures & Algorithms UD513
+[Approx 4 week long course offered by Google on Udacity](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+
 
 
 ## Introduction and Efficiency
@@ -48,8 +48,3 @@ Pseudo-code that is nearly identical to Python.
 - Knapsack Problem
 - Traveling Salesman Problem
 
-## Technical Interview Tips
-- Mock Interview Breakdown
-- Additional Tips
-- Practice with Pramp
-- Next Steps
